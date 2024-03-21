@@ -86,7 +86,7 @@ background-position: center;
 
 h1 {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM TYPEKIT OR GOOGLE FONTS */
-	font-family: "Oswald", sans-serif;
+	font-family: "Kode Mono", monospace;
 	font-size: 2em;
     margin: 0px auto 10px auto;
     color: rgb(74, 101, 68);
@@ -104,14 +104,14 @@ h2 {
 
 p {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM TYPEKIT OR GOOGLE FONTS */
-	font-family: "Nunito Sans", sans-serif;
+	font-family: "Kode Mono", monospace;
 	font-size: 1.2em;
     line-height: 1.6;
     color: rgb(74, 101, 68);
 }
 
 nav{
-	font-family: "Merriweather", serif;
+	font-family: "Nunito Sans", sans-serif;
 	font-size: 1.2em;
 	width: 400px;
 	margin: 0 auto;
